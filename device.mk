@@ -63,7 +63,7 @@ PRODUCT_PACKAGES += \
     SettingsResMarble \
     SystemUIResMarble \
     WifiResMarble \
-    WifiResMarbleCN \
+    WifiResMarbleCN
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
