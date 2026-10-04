@@ -7,5 +7,7 @@ persist.camera.ois.video=1
 persist.vendor.camera.ois.enable=1
 persist.vendor.camera.ois.video=1
 
+ro.sys.buildtype=aosp
+
 # Xiaomi
 ro.product.mod_device=marble_global
