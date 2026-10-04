@@ -13,6 +13,7 @@ ro.infinity.soc=Snapdragon® 7+Gen 2
 ro.infinity.battery=5000 mAh
 ro.infinity.display=6.67″, 120Hz, 2400x1080
 ro.infinity.camera=64MP + 8MP + 2MP
+ro.sys.buildtype=aosp
 
 # Xiaomi
 ro.product.mod_device=marble_global
